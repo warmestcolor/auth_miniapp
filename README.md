@@ -1,4 +1,5 @@
 # Überauth Wechat Miniapp
+## Forked from https://github.com/edwardzhou/ueberauth_wechat_miniapp
 
 > Wechat Miniapp OAuth2 strategy for Überauth.
 
