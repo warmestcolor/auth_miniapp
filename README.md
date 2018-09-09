@@ -9,7 +9,7 @@
 
     ```elixir
     def deps do
-      [{:ueberauth_wechat_miniapp, github: "warmestcolor/authminiapp"}]
+      [{:ueberauth_wechat_miniapp, github: "warmestcolor/auth_miniapp"}]
     end
     ```
 
